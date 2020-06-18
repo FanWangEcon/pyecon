@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "pyecon"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Fan Wang <wangfanbsg75@live.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+pyfan = "^0.1.37"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
